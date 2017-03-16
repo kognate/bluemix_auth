@@ -12,6 +12,7 @@ setup(
     description="package to wrap bluemix authentication (including openwhisk)",
     license="MIT",
     author="Joshua B. Smith",
+    author_email="kognate@gmail.com",
     packages=find_packages(),
     install_requires=['requests'],
     long_description=long_description,
