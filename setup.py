@@ -13,6 +13,7 @@ setup(
     license="MIT",
     author="Joshua B. Smith",
     author_email="kognate@gmail.com",
+    url='https://github.com/kognate/bluemix_auth',
     packages=find_packages(),
     install_requires=['requests'],
     long_description=long_description,
